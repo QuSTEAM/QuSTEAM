@@ -16,14 +16,22 @@ methods and materials for building undergraduate capacity for undergraduate QISE
 
 Sample syllabus and material will be available by course, hosted in this public repository:
 
-Qu0-Instructor-Resources
-Qu1-Quantum-Revolution
-Qu2-Classical-and-Quantum-Logic
-Qu3-Math-Methods-for-QISE
-Qu4-Quantum-Lab
-Qu5-Discipline-based-Quantum-Mechanics
-Qu6-Quantum-Mechanics-for-QISE
-Qu7-Quantum-Software
-Qu8-Quantum-Hardware
+* Qu0-Instructor-Resources
+
+* Qu1-Quantum-Revolution
+
+* Qu2-Classical-and-Quantum-Logic
+
+* Qu3-Math-Methods-for-QISE
+
+* Qu4-Quantum-Lab
+
+* Qu5-Discipline-based-Quantum-Mechanics
+
+* Qu6-Quantum-Mechanics-for-QISE
+
+* Qu7-Quantum-Software
+
+* Qu8-Quantum-Hardware
 
 Connect with us on our [website](https://qusteam.org), [the community formerly known as Twitter](x.com), and [LinkedIn](https://linkedin.com/company/qusteam), or email contact@qusteam.org.
